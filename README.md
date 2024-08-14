@@ -28,18 +28,20 @@ I have experience in **Java**, **Android development**, **Kotlin**. Constantly l
 - **Web Development**
 - **Algorithm Design**
 
-## 💡 Featured Projects
+## 💡 Personal Projects
 
-### 📱 Android Projects
-- **[SplitCost](https://github.com/Anready/SplitCost)**
-- **[Croissant](https://github.com/Anready/Croissant)**:
+- **[SplitCost](https://github.com/Anready/SplitCost)**: An expense journal in which people can jointly (by API of PCloud) keep track of your finances
+- **[Croissant](https://github.com/Anready/Croissant)**: A file manager that allows other applications to access files through the ContentProvider
+- **[SignApk](https://github.com/Anready/SignApk)**: A simple utility for Termux to sign APK files 
+- **[Blog](https://github.com/Anready/anready.github.io)**: Lightweight blog
 
-### 🛠️ Utility Scripts
-- **[SignApk](https://github.com/Anready/SignApk)**
+## Contributions
+- **[sweb-modern](https://github.com/Anready/sweb-modern)**: Simple convenient browser
+- **[Yantra Launcher](https://github.com/codergtm/yantra-app-launcher)** Terminal-view launcher for Android
 
-## 🏗️ Work in Progress
-- **[Blog](https://github.com/Anready/anready.github.io)**
-- **[sweb-modern](https://github.com/Anready/sweb-modern)**
+## My Contribution
+- In sweb-modern project I updated design of app, also was updated Gradle from 6.1.1 to gradle 8.1 and added support of new devices (SDK: up to 34). Added private keyboard.
+- In yantra project I changed part of system of suggestions, added: translator API, backup of settings, private keyboard to built-in browser, import of custom fonts 
 
 ## 📚 What I’m Reading
 - **"Clean Code" by Robert C. Martin**
